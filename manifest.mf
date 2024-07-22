@@ -1,0 +1,3 @@
+Versión del manifiesto: 1.0
+X-COMMENT: Main-Class se agregará automáticamente por compilación
+
